@@ -6,4 +6,5 @@ def find_min_value(array)
       temp_min = ele
     end
   end
+  temp_min
 end
